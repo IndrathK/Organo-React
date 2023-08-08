@@ -1,0 +1,10 @@
+@import '../Style/style.css';
+
+.banner{ 
+    background-color: var(--cor-de-fundo);
+    text-align: center;
+}
+
+.banner img{
+    max-width: 100%;
+}
